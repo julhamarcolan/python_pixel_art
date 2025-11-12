@@ -14,5 +14,5 @@ This project recreates any image using Python’s **Turtle graphics** by convert
 ### 📂 Files
 
 - **`pixel_art.py`** → main script  
-- **`pladies.png`** → example image (you can replace it with your own)  
+- **`logo_´pixel.png`** → example image (you can replace it with your own)  
 - **`palestra.pptx`** → PowerPoint presentation used in the talk *“Costurando Pixels: do código ao tecido”*, given at the 11th anniversary of **PyLadies São Carlos**, where the goal was to use pixel art as a model for **cross-stitch embroidery**.
