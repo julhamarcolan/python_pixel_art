@@ -5,7 +5,7 @@ from PIL import Image
 IMAGE_PATH = "logo_pyladies.png"
 
 # --- Tamanho da grade (quanto maior, mais detalhado) ---
-GRID_SIZE = 50
+GRID_SIZE = 100
 
 # --- Carregar e preparar a imagem ---
 img = Image.open(IMAGE_PATH).convert("RGB")
